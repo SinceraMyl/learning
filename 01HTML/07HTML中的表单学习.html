@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<form>
+			<!-- 普通文本框  value:文本框中值-->
+			账号： <input type="text" name="zh" value="123"/> <br />
+			密码：<input type="password" name="pwd" value="123" /> <br />
+			
+			<!-- 单选框 实现单选的效果必须指定同一个name属性 checkded默认选择-->
+			男:<input type="radio" name="sex" / checked="checked">
+			女:<input type="radio" name="sex" /> <br />
+			
+			<!-- 多选框 -->
+			抽烟:<input type="checkbox" />
+			喝酒:<input type="checkbox" />
+			烫头:<input type="checkbox" /> <br />
+			
+			<!-- 多行文本框 -->
+			个人介绍:<textarea  rows="20" cols="15" >犯我德邦者，虽远必诛</textarea> <br />
+			
+			<!-- 文件选择框 -->
+			<input type="file" name="file" /><br />
+			
+			<!-- 隐藏框 -->
+			<input type="hidden" name="sno" value="201925010216" /><br />
+			
+			<!-- 下拉框 selevted默认选择-->
+			<select>
+				<option>德玛西亚之力</option>
+				<option>德玛西亚皇子</option>
+				<option selected="selected">青钢影</option>
+				<option>放逐之刃</option>
+				
+			</select><br />
+			
+			<!-- 提交按钮 -->
+			<input type="submit" value="提交" /> <br />
+			
+			<!-- 清除按钮 清空写好的内容-->
+			<input type="reset" value="清除" />
+			
+			<!-- 普通按钮 没有提交数据的功能-->
+			<input type="button" value="提交" />
+			
+			
+			
+		</form>
+		
+	</body>
+</html>

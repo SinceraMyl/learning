@@ -1,0 +1,11 @@
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\bin\Debug\testwhile.exe.config
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\bin\Debug\testwhile.exe
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\bin\Debug\testwhile.pdb
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.csproj.AssemblyReference.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.Form1.resources
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.Properties.Resources.resources
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.csproj.GenerateResource.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.csproj.CoreCompileInputs.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.exe
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testwhile\obj\Debug\testwhile.pdb

@@ -1,0 +1,8 @@
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\bin\Debug\test002.exe.config
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\bin\Debug\test002.exe
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\bin\Debug\test002.pdb
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\obj\Debug\test002.csproj.AssemblyReference.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\obj\Debug\test002.csproj.SuggestedBindingRedirects.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\obj\Debug\test002.csproj.CoreCompileInputs.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\obj\Debug\test002.exe
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\test002\obj\Debug\test002.pdb

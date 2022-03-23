@@ -1,0 +1,11 @@
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\bin\Debug\testp3.exe.config
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\bin\Debug\testp3.exe
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\bin\Debug\testp3.pdb
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.csproj.AssemblyReference.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.Form1.resources
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.Properties.Resources.resources
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.csproj.GenerateResource.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.csproj.CoreCompileInputs.cache
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.exe
+C:\Users\朱桐的性能怪兽\Desktop\csharp.net\testp3\obj\Debug\testp3.pdb
